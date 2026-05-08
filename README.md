@@ -31,5 +31,8 @@ Me he intentado conectar por Escritorio remoto con la aplicación _MSTSC_ de Win
 Pero me salía un error de que el equipo no podía conectarse ya que hay una sesion de consola en curso.
 ![MSTSC Error](<imagenes/MSTSC Error.png>)
 
-Por ello me fui a la dirección _http://localhost:3000_
+Por ello me fui a la dirección _http://localhost:3000_.
 ![localhost 3000](<imagenes/localhost 3000.png>)
+
+Para probar que todo funciona he creado un archivo de texto en el escritorio del contenedor llamado _PRUEBA_LOGRADA.txt_ con un mensaje
+![PRUEBA_LOGRADA](imagenes/PRUEBA_LOGRADA.png)
