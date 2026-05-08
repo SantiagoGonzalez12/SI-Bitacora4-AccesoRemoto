@@ -23,3 +23,13 @@ Luego he generado un par de llaves con el comando _ssh-keygen -t ed25519 -C "mi_
 ### Paso C (Transferencia)
 Para copiar mi clave pública al servidor he usado el comando _ssh-copy-id -p 2222 alumno@localhost_
 ![ssh-copy-id -p 2222 alumno@localhost](<imagenes/ssh-copy-id -p 2222 alumno@localhost.png>)
+
+
+## 3.2. RDP: El Escritorio en tu Navegador
+Me he intentado conectar por Escritorio remoto con la aplicación _MSTSC_ de Windows por la dirección _localhost:3389_.
+![MSTSC](imagenes/MSTSC.png)
+Pero me salía un error de que el equipo no podía conectarse ya que hay una sesion de consola en curso.
+![MSTSC Error](<imagenes/MSTSC Error.png>)
+
+Por ello me fui a la dirección _http://localhost:3000_
+![localhost 3000](<imagenes/localhost 3000.png>)
