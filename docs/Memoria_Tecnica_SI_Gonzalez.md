@@ -36,6 +36,14 @@ Para reducir los riesgos detectados, se ha implementado una solución basada en 
 
 La decisión de optar por esta tecnología ayuda a una optimización del Coste Total de Propiedad (TCO). Al emplear software bajo licencias permisivas como Apache y PostgreSQL License, la organización elimina costes de licencias recurrentes, permitiendo derivar dicha inversión hacia la mejora de la ciberseguridad. Además, la portabilidad de Docker minimiza el tiempo de recuperación ante desastres (DRP), cumpliendo con requisitos no funcionales de disponibilidad alta. Un análisis de requisitos es el único método eficaz para evitar fallos críticos y garantizar que la solución resuelva el problema de negocio original.
 
+
+# Sprint 2: Infraestructura Cloud, Transferencia de Ficheros y El Investigador
+## 2. Estimación de Costes de Infraestructura
+Esta es la tabla para calcular el presupuesto cloud del proyecto
+![Tabla_Presupuesto_Cloud_Proyecto](../imagenes/Tabla_Presupuesto_Cloud_Proyecto.png)
+
+## 3. Estrategia de Despliegue y Comunicación
+
 # Referencias Bibliográficas {#referencias-bibliográficas}
 
 \[1\]	J. M. D. Computadores y Tiempo Real, «Análisis de requisitos y especificación de una aplicación», Unican.es. \[En línea\]. Disponible en: [https://www.ctr.unican.es/asignaturas/ingenieria\_software\_4\_f/doc/m3\_08\_especificacion-2011.pdf](https://www.ctr.unican.es/asignaturas/ingenieria_software_4_f/doc/m3_08_especificacion-2011.pdf) . \[Accedido: 15-may-2026\].
