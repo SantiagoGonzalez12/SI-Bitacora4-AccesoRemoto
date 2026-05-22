@@ -11,13 +11,13 @@ Desarrollo de Aplicaciones Aplicaciones Multiplataforma
 
 # ÍNDICE
 
-[**1\. Análisis de Necesidades	2**](#análisis-de-necesidades)
+[**1 Análisis de Necesidades**](#análisis-de-necesidades)
 
-[1.1. Contexto y Problemática Actual	2](#1.1.contexto-y-problemática-actual)
+[1.1. Contexto y Problemática Actual](#1.1.contexto-y-problemática-actual)
 
-[1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole	2](#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole)
+[1.2. Solución Propuesta: Infraestructura Híbrida Docker-Guacamole](#1.2.-solución-propuesta:-infraestructura-híbrida-docker-guacamole)
 
-[1.3. Justificación Técnica y Beneficios (TCO)	2](#1.3.-justificación-técnica-y-beneficios-\(tco\))
+[1.3. Justificación Técnica y Beneficios (TCO)](#1.3.-justificación-técnica-y-beneficios-\(tco\))
 
 [Sprint 2: Infraestructura Cloud, Transferencia de Ficheros y El Investigador](#Sprint2)
 
@@ -51,6 +51,8 @@ Este protocolo asegura que tanto las credenciales como los archivos de las aplic
 Para el flujo de despliegue utilizaré la _AWS CLI (Interfaz de Línea de Comandos)_ con el protocolo HTTPS. Esto nos permite sincronizar de forma natica los archivos estáticos de nuestro proyecto con buckets de _Amazon S3_.
 
 En la comunicación, hemos configurado un espacio de trabajo en _Slack_. De este modo, si la infrastructura supera el umbral de costes previstos en el presupuesto o si el servidor sufre una caída, el sistema enviará una alerta automática al canal _devops_, permitiendo una respuesta inmediata ante cualquier incidencia técnica.
+
+## 4. Justificación Científica
 
 # Referencias Bibliográficas <a name="referencias-bibliográficas"></a>
 
